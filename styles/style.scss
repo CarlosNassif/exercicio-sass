@@ -1,0 +1,14 @@
+@import '_variables';
+@import '_hello-card';
+
+.contact-card {
+  @extend .hello-card;
+
+  &__button {
+    @extend .hello-card__button;
+  }
+
+  background-color: lightcoral;
+  background-color: rgba(182, 240, 128, 0.795);
+  width: 100% - 20%;
+}

@@ -1,0 +1,12 @@
+.hello-card {
+  color: $textColor;
+  height: 50vh;
+  background-color: lightblue;
+
+  &__button {
+    background: $primaryBtn;
+    &::after {
+      content: 'Hellloooo';
+    }
+  }
+}

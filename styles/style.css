@@ -1,0 +1,17 @@
+.hello-card, .contact-card {
+  color: rgb(58, 58, 58);
+  height: 50vh;
+  background-color: lightblue;
+}
+.hello-card__button, .contact-card__button {
+  background: rgb(245, 155, 53);
+}
+.hello-card__button::after, .contact-card__button::after {
+  content: "Hellloooo";
+}
+
+.contact-card {
+  background-color: lightcoral;
+  background-color: rgba(182, 240, 128, 0.795);
+  width: 80%;
+}/*# sourceMappingURL=style.css.map */
