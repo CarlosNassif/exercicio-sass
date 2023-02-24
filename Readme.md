@@ -6,7 +6,7 @@ A atividade consite em seguir o [tutorial de SCSS](https://www.youtube.com/watch
 
 ## Arquitetura escolhida
 
-Para realizar esse trabalho, foi selecionada a arquitetura BEM, visto que ela é uma boa opção de estilização juntao ao SASS.
+Para realizar esse trabalho, foi selecionada a arquitetura BEM, visto que ela é uma boa opção de estilização juntao ao SASS, devido a praticidade de usar do aninhamento para deixar o arquivo de estilização mais legível (ou seja, a clareza de hierarquia que o BEM traz).
 
 Para poder utilizá-la, foi alterado o arquivo HTML, o arquivo SASS do `header` foi alterado para `hello-card`.
 
